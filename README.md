@@ -1,2 +1,2 @@
 # GMTK-GAME
-A game for gmtk
+A Gane Made For The Seventh GMTK Jam
